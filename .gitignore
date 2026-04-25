@@ -1,0 +1,31 @@
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker volumes (local development)
+oracle_data/
+
+# Logs
+*.log
+logs/
+
+# Build artifacts
+build/
+dist/
+
+# Misc
+.cache/
+tmp/
+temp/
