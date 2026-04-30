@@ -1,0 +1,7 @@
+[
+  {"escuela_id_escuela": 1, "centro_id_centro": 1},
+  {"escuela_id_escuela": 1, "centro_id_centro": 2},
+  {"escuela_id_escuela": 2, "centro_id_centro": 1},
+  {"escuela_id_escuela": 3, "centro_id_centro": 2},
+  {"escuela_id_escuela": 3, "centro_id_centro": 3}
+]

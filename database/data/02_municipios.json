@@ -1,0 +1,7 @@
+[
+  {"id_municipio": 1, "nombre": "Guatemala", "codigo": "01", "departamento_id_departamento": 1},
+  {"id_municipio": 2, "nombre": "Mixco", "codigo": "02", "departamento_id_departamento": 1},
+  {"id_municipio": 3, "nombre": "Villa Nueva", "codigo": "03", "departamento_id_departamento": 1},
+  {"id_municipio": 4, "nombre": "Escuintla", "codigo": "01", "departamento_id_departamento": 3},
+  {"id_municipio": 5, "nombre": "Antigua Guatemala", "codigo": "01", "departamento_id_departamento": 2}
+]

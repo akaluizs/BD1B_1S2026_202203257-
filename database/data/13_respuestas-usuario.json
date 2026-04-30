@@ -1,0 +1,8 @@
+[
+  {"pregunta_id_pregunta": 1, "examen_id_examen": 1, "respuesta": "B"},
+  {"pregunta_id_pregunta": 2, "examen_id_examen": 1, "respuesta": "B"},
+  {"pregunta_id_pregunta": 3, "examen_id_examen": 2, "respuesta": "A"},
+  {"pregunta_id_pregunta": 4, "examen_id_examen": 2, "respuesta": "C"},
+  {"pregunta_id_pregunta": 1, "examen_id_examen": 3, "respuesta": "B"},
+  {"pregunta_id_pregunta": 2, "examen_id_examen": 3, "respuesta": "A"}
+]

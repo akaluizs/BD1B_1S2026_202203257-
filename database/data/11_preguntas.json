@@ -1,0 +1,6 @@
+[
+  {"id_pregunta": 1, "pregunta_texto": "¿Cuál es la distancia mínima que debe mantener entre vehículos en carretera?", "respuesta_a": "2 metros", "respuesta_b": "3 segundos de distancia", "respuesta_c": "5 metros", "respuesta_d": "1 segundo de distancia", "respuesta_correcta": "B"},
+  {"id_pregunta": 2, "pregunta_texto": "¿Qué significa una señal de alto?", "respuesta_a": "Reducir velocidad", "respuesta_b": "Detenerse completamente", "respuesta_c": "Ceder el paso", "respuesta_d": "Continuar con precaución", "respuesta_correcta": "B"},
+  {"id_pregunta": 3, "pregunta_texto": "¿Cuál es el límite de velocidad en zona escolar?", "respuesta_a": "20 km/h", "respuesta_b": "30 km/h", "respuesta_c": "40 km/h", "respuesta_d": "50 km/h", "respuesta_correcta": "A"},
+  {"id_pregunta": 4, "pregunta_texto": "¿Qué debe hacer al ver una ambulancia con sirena activada?", "respuesta_a": "Mantener velocidad", "respuesta_b": "Acelerar para salir del camino", "respuesta_c": "Orillarse y detenerse", "respuesta_d": "Ignorar la sirena", "respuesta_correcta": "C"}
+]

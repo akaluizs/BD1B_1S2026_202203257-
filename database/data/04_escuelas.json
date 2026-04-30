@@ -1,0 +1,5 @@
+[
+  {"id_escuela": 1, "nombre": "Escuela de Manejo AutoMaster", "direccion": "Avenida Reforma 15-45, Zona 10", "acuerdo": "ESC-AM-001"},
+  {"id_escuela": 2, "nombre": "Academia Vial GuateDrive", "direccion": "Boulevard Los Próceres 18-20, Zona 10", "acuerdo": "ESC-GD-002"},
+  {"id_escuela": 3, "nombre": "Instituto de Conducción Segura", "direccion": "Calzada Roosevelt 25-30, Zona 11", "acuerdo": "ESC-ICS-003"}
+]

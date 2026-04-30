@@ -12,7 +12,7 @@ services:
             - APP_USER_PASSWORD=12345
             - ORACLE_ALLOW_REMOTE=true
         volumes:
-            - ./database/init.sql:/container-entrypoint-initdb.d/init.sql
+            - ./database/init.sql:/container-entrypoint-initdb.d/init.sql:ro
             - oracle_data:/opt/oracle/oradata
         networks:
             - sbd1-network
@@ -33,22 +33,8 @@ services:
             - DB_PASSWORD=12345
             - DB_CONNECTION_STRING=database:1521/xe
         depends_on:
-            - database
-        networks:
-            - sbd1-network
-
-    frontend:
-        build:
-            context: ./client/client
-            dockerfile: Dockerfile
-        container_name: next-app-sbd1
-        ports:
-            - "3001:3000"
-        environment:
-            - NODE_ENV=development
-            - NEXT_PUBLIC_API_URL=http://backend:3000
-        depends_on:
-            - backend
+            database:
+                condition: service_healthy
         networks:
             - sbd1-network
 

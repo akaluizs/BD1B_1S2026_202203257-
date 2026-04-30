@@ -1,0 +1,7 @@
+[
+  {"id_examen": 1, "registro_id_registro": 1, "correlativo_id_correlativo": 1, "registro_id_escuela": 1, "registro_id_centro": 1, "registro_municipio_id_municipio": 1, "registro_municipio_departamento_id_departamento": 1},
+  {"id_examen": 2, "registro_id_registro": 2, "correlativo_id_correlativo": 2, "registro_id_escuela": 1, "registro_id_centro": 2, "registro_municipio_id_municipio": 2, "registro_municipio_departamento_id_departamento": 1},
+  {"id_examen": 3, "registro_id_registro": 3, "correlativo_id_correlativo": 3, "registro_id_escuela": 2, "registro_id_centro": 1, "registro_municipio_id_municipio": 3, "registro_municipio_departamento_id_departamento": 1},
+  {"id_examen": 4, "registro_id_registro": 4, "correlativo_id_correlativo": 4, "registro_id_escuela": 3, "registro_id_centro": 3, "registro_municipio_id_municipio": 4, "registro_municipio_departamento_id_departamento": 3},
+  {"id_examen": 5, "registro_id_registro": 5, "correlativo_id_correlativo": 5, "registro_id_escuela": 2, "registro_id_centro": 2, "registro_municipio_id_municipio": 5, "registro_municipio_departamento_id_departamento": 2}
+]

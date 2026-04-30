@@ -1,0 +1,6 @@
+[
+  {"id_pregunta_practico": 1, "pregunta_texto": "Realizar estacionamiento en paralelo en un espacio de 6 metros", "punteo": 20},
+  {"id_pregunta_practico": 2, "pregunta_texto": "Conducir en reversa por 50 metros manteniendo trayectoria recta", "punteo": 15},
+  {"id_pregunta_practico": 3, "pregunta_texto": "Maniobra de tres puntos en espacio reducido", "punteo": 25},
+  {"id_pregunta_practico": 4, "pregunta_texto": "Conducción en zona urbana respetando señales de tránsito", "punteo": 30}
+]

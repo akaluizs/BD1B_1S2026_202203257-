@@ -1,0 +1,5 @@
+[
+    { "id_departamento": 5, "nombre": "Guatemala", "codigo": "01" },
+    { "id_departamento": 6, "nombre": "Sacatepéquez", "codigo": "03" },
+    { "id_departamento": 7, "nombre": "Escuintla", "codigo": "05" }
+]

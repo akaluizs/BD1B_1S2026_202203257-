@@ -1,0 +1,7 @@
+[
+  {"id_registro": 1, "ubicacion_escuela_id_escuela": 1, "ubicacion_centro_id_centro": 1, "municipio_id_municipio": 1, "municipio_departamento_id_departamento": 1, "fecha": "2025-01-15", "tipo_tramite": "Licencia de Conducir", "tipo_licencia": "A", "nombre_completo": "Juan Carlos López García", "genero": "M"},
+  {"id_registro": 2, "ubicacion_escuela_id_escuela": 1, "ubicacion_centro_id_centro": 2, "municipio_id_municipio": 2, "municipio_departamento_id_departamento": 1, "fecha": "2025-01-15", "tipo_tramite": "Licencia de Conducir", "tipo_licencia": "B", "nombre_completo": "María Elena Rodríguez Morales", "genero": "F"},
+  {"id_registro": 3, "ubicacion_escuela_id_escuela": 2, "ubicacion_centro_id_centro": 1, "municipio_id_municipio": 3, "municipio_departamento_id_departamento": 1, "fecha": "2025-01-16", "tipo_tramite": "Licencia de Conducir", "tipo_licencia": "A", "nombre_completo": "Carlos Alberto Méndez Castillo", "genero": "M"},
+  {"id_registro": 4, "ubicacion_escuela_id_escuela": 3, "ubicacion_centro_id_centro": 3, "municipio_id_municipio": 4, "municipio_departamento_id_departamento": 3, "fecha": "2025-01-17", "tipo_tramite": "Licencia de Conducir", "tipo_licencia": "A", "nombre_completo": "Ana Sofía Guerrero Díaz", "genero": "F"},
+  {"id_registro": 5, "ubicacion_escuela_id_escuela": 2, "ubicacion_centro_id_centro": 2, "municipio_id_municipio": 5, "municipio_departamento_id_departamento": 2, "fecha": "2025-01-18", "tipo_tramite": "Licencia de Conducir", "tipo_licencia": "B", "nombre_completo": "Pedro José Hernández Ruiz", "genero": "M"}
+]
