@@ -2,7 +2,8 @@ const express = require("express");
 const router = express.Router();
 const BaseRepository = require("../base/BaseRepository");
 const BaseController = require("../base/BaseController");
-const { ENTITIES, STATISTICAL_QUERIES } = require("../config/entities");
+const { ENTITIES } = require("../config/entities");
+const { promediosPunteos, rankingEvaluados, analisisDificultadPreguntas } = require("../queries/statisticalQueries");
 const { success, error } = require("../utils/responses");
 const validators = require("../utils/validators");
 
@@ -145,8 +146,8 @@ for (const [key, config] of Object.entries(ENTITIES)) {
   }
 }
 
-router.get("/estadisticas/promedios", STATISTICAL_QUERIES.promediosPunteos);
-router.get("/estadisticas/ranking-evaluados", STATISTICAL_QUERIES.rankingEvaluados);
-router.get("/estadisticas/dificultad-preguntas", STATISTICAL_QUERIES.analisisDificultadPreguntas);
+router.get("/estadisticas/promedios", promediosPunteos);
+router.get("/estadisticas/ranking-evaluados", rankingEvaluados);
+router.get("/estadisticas/dificultad-preguntas", analisisDificultadPreguntas);
 
 module.exports = router;
